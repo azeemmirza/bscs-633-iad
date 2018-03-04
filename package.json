@@ -1,0 +1,11 @@
+{
+  "name": "iad-lab01",
+  "version": "1.0.0",
+  "description": "Internet Application Development Lab 001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azeem Mirza <contact@azeemirza.com>",
+  "license": "ISC"
+}
